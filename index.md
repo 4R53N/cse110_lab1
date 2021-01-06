@@ -2,6 +2,8 @@ Arsen is **curious**, _outgoing_, ~~lazy~~, ***something in bold italic***
 
 [Checkout my main page](https://4r53n.github.io/).
 
+[Get straight to code](./#some-of-my-favorit-code-snippets)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs and look! There is one.
