@@ -4,6 +4,8 @@ Arsen is **curious**, _outgoing_, ~~lazy~~. **Again, I am _curious_ and not lazy
 
 [Get straight to code](./#some-of-my-favorit-code-snippets)
 
+[README of this repo](./README.md)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs and look! There is one.
