@@ -1,4 +1,4 @@
-Arsen is **curious**, _outgoing_, ~~lazy~~, ***something in bold italic***
+Arsen is **curious**, _outgoing_, ~~lazy~~. **Again, I am _curious_ and not lazy**. ***Remember that***
 
 [Checkout my main page](https://4r53n.github.io/).
 
