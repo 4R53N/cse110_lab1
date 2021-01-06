@@ -112,8 +112,8 @@ System.out.println(a);
 
 ### Finally some to do tasks for today
 
-- [x] Complete the lab
-- [ ] Work out
-- [ ] Have a dinner
-- [ ] Take a walk
-- [ ] Read a book
+- [x]  Complete the lab
+- [ ]  Work out
+- [ ]  Have a dinner
+- [ ]  Take a walk
+- [ ]  Read a book
